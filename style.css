@@ -1,0 +1,30 @@
+b{
+    color: white;
+    font-size: 25px;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+    scroll-behavior: smooth;
+}
+.song_name_button{
+    width: fit-content;
+    font-size: 25px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px grey;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px skyblue;
+    margin-top: 80px;
+}
